@@ -1,5 +1,13 @@
-## Hi there 👋
+## Olá, bem vindo ao meu perfil 💟
 
+meu nome é Bruna Bghette Teixeira 
+
+sou estudante da plataforma Alura
+
+ultilizo esse espaço para compartilharmento de projetos realizados em aula
+
+### para entar em contato 📫
+00001092494170sp@al.educacao.sp.gov.br
 <!--
 **BRUNATEI3S2024/BRUNATEI3S2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
