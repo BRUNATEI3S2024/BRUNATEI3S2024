@@ -1,4 +1,4 @@
-## Olá, bem vindo ao meu perfil 💟
+## Olá, bem vindo ao meu perfil 💟 
 
 meu nome é Bruna Bghette Teixeira 
 
